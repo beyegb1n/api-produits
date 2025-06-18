@@ -21,8 +21,8 @@ Ce projet est une API que j'ai construite avec **Node.js**, **Express**, et **My
 Clonez ce dépôt Git sur votre machine :
 
 ```bash
-git clone <URL_DU_DEPOT>
-cd <NOM_DU_DOSSIER_CLONE>
+git clone https://github.com/beyegb1n/api-produits.git
+cd api-produits
 ```
 
 ### 2. Installer les dépendances
